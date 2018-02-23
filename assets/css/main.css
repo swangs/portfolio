@@ -2110,3 +2110,9 @@
 	height: 150px;
 	margin: auto;
 }
+
+#links {
+	position: fixed;
+	top: 0px;
+	right: 10px;
+}
