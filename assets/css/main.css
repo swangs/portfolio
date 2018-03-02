@@ -2116,3 +2116,7 @@
 	top: 0px;
 	left: 10px;
 }
+
+.contactinfo p {
+	margin: 0px;
+}
